@@ -9,8 +9,14 @@
     "name": "Mini Farcaster App",
     "subtitle": "Demo app",
     "description": "Simple Farcaster app",
-    "homeUrl": "https://your-vercel-url.vercel.app",
+    "iconUrl": "https://farcaster-mini-app2.vercel.app/blue-icon.png",
+    "splashImageUrl": "https://farcaster-mini-app2.vercel.app/blue-hero.png",
+    "splashBackgroundColor": "#000000",
+    "homeUrl": "https://farcaster-mini-app2.vercel.app",
+    "webhookUrl": "https://farcaster-mini-app2.vercel.app/api/webhook",
     "primaryCategory": "social",
-    "tags": ["demo", "farcaster"]
+    "tags": ["demo", "farcaster"],
+    "heroImageUrl": "https://farcaster-mini-app2.vercel.app/blue-hero.png",
+    "buttonTitle": "Open App"
   }
 }
