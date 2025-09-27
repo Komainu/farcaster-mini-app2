@@ -1,0 +1,16 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Mini Farcaster App",
+    "subtitle": "Demo app",
+    "description": "Simple Farcaster app",
+    "homeUrl": "https://your-vercel-url.vercel.app",
+    "primaryCategory": "social",
+    "tags": ["demo", "farcaster"]
+  }
+}
